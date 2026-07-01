@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
 ## Enumeration
 |  |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/avani-srivastavaa/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/avani-srivastavaa/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
 | [0459-repeated-substring-pattern](https://github.com/avani-srivastavaa/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |
@@ -37,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/avani-srivastavaa/Leetcode/tree/master/0043-multiply-strings) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
