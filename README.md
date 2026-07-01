@@ -18,9 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avani-srivastavaa/Leetcode/tree/master/0020-valid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/avani-srivastavaa/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/avani-srivastavaa/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/avani-srivastavaa/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
