@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/avani-srivastavaa/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/avani-srivastavaa/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0065-valid-number) |
 | [0459-repeated-substring-pattern](https://github.com/avani-srivastavaa/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/avani-srivastavaa/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## String Matching
