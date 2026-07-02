@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0165-compare-version-numbers) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/avani-srivastavaa/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
