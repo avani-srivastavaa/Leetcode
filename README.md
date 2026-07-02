@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avani-srivastavaa/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/avani-srivastavaa/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/avani-srivastavaa/Leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/avani-srivastavaa/Leetcode/tree/master/0177-nth-highest-salary) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avani-srivastavaa/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avani-srivastavaa/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avani-srivastavaa/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
