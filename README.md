@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/avani-srivastavaa/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0065-valid-number) |
+| [0165-compare-version-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0459-repeated-substring-pattern](https://github.com/avani-srivastavaa/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/avani-srivastavaa/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## String Matching
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/avani-srivastavaa/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
