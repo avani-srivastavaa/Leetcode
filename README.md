@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/avani-srivastavaa/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/avani-srivastavaa/Leetcode/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/avani-srivastavaa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/avani-srivastavaa/Leetcode/tree/master/0500-keyboard-row) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/avani-srivastavaa/Leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/avani-srivastavaa/Leetcode/tree/master/0066-plus-one) |
 | [0504-base-7](https://github.com/avani-srivastavaa/Leetcode/tree/master/0504-base-7) |
 ## Simulation
 |  |
