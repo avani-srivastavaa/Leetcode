@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/avani-srivastavaa/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/avani-srivastavaa/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/avani-srivastavaa/Leetcode/tree/master/0078-subsets) |
 | [0485-max-consecutive-ones](https://github.com/avani-srivastavaa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/avani-srivastavaa/Leetcode/tree/master/0500-keyboard-row) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
@@ -141,8 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/avani-srivastavaa/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/avani-srivastavaa/Leetcode/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/avani-srivastavaa/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
