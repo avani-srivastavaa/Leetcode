@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/avani-srivastavaa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/avani-srivastavaa/Leetcode/tree/master/0500-keyboard-row) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/avani-srivastavaa/Leetcode/tree/master/0075-sort-colors) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Counting
 |  |
 | ------- |
