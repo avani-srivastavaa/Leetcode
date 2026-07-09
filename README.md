@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/avani-srivastavaa/Leetcode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/avani-srivastavaa/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/avani-srivastavaa/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/avani-srivastavaa/Leetcode/tree/master/0620-not-boring-movies) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/avani-srivastavaa/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Tree
