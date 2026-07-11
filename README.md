@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0263-ugly-number) |
 | [0504-base-7](https://github.com/avani-srivastavaa/Leetcode/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -218,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
