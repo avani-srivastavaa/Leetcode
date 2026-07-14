@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/avani-srivastavaa/Leetcode/tree/master/0620-not-boring-movies) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/avani-srivastavaa/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/avani-srivastavaa/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/avani-srivastavaa/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Tree
 |  |
