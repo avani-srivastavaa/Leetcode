@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/avani-srivastavaa/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/avani-srivastavaa/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/avani-srivastavaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/avani-srivastavaa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/avani-srivastavaa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/avani-srivastavaa/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/avani-srivastavaa/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/avani-srivastavaa/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avani-srivastavaa/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/avani-srivastavaa/Leetcode/tree/master/0231-power-of-two) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/avani-srivastavaa/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/avani-srivastavaa/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/avani-srivastavaa/Leetcode/tree/master/0258-add-digits) |
 | [3379-transformed-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/avani-srivastavaa/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/avani-srivastavaa/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0136-single-number) |
