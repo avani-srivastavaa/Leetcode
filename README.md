@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avani-srivastavaa/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/avani-srivastavaa/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/3379-transformed-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/avani-srivastavaa/Leetcode/tree/master/0500-keyboard-row) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/avani-srivastavaa/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1748-sum-of-unique-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
 ## Enumeration
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/avani-srivastavaa/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1748-sum-of-unique-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
