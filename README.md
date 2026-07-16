@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/avani-srivastavaa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/avani-srivastavaa/Leetcode/tree/master/0500-keyboard-row) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avani-srivastavaa/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/avani-srivastavaa/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/avani-srivastavaa/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0414-third-maximum-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/avani-srivastavaa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/avani-srivastavaa/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1748-sum-of-unique-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/avani-srivastavaa/Leetcode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Bucket Sort
 |  |
 | ------- |
