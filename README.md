@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/avani-srivastavaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/avani-srivastavaa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0345-reverse-vowels-of-a-string](https://github.com/avani-srivastavaa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/avani-srivastavaa/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/avani-srivastavaa/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/avani-srivastavaa/Leetcode/tree/master/0500-keyboard-row) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/avani-srivastavaa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/avani-srivastavaa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Database
 |  |
 | ------- |
