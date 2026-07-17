@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/avani-srivastavaa/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/avani-srivastavaa/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/avani-srivastavaa/Leetcode/tree/master/0342-power-of-four) |
