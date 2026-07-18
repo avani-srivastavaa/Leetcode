@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avani-srivastavaa/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
