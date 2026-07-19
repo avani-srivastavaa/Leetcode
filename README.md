@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/avani-srivastavaa/Leetcode/tree/master/0500-keyboard-row) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avani-srivastavaa/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/avani-srivastavaa/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/avani-srivastavaa/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/1748-sum-of-unique-elements) |
