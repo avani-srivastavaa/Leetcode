@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/avani-srivastavaa/Leetcode/tree/master/0204-count-primes) |
+| [0334-increasing-triplet-subsequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/avani-srivastavaa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0414-third-maximum-number) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/avani-srivastavaa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
