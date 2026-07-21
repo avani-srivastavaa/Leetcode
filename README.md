@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/avani-srivastavaa/Leetcode/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/avani-srivastavaa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/avani-srivastavaa/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/avani-srivastavaa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/avani-srivastavaa/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/avani-srivastavaa/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/avani-srivastavaa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/avani-srivastavaa/Leetcode/tree/master/0389-find-the-difference) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/avani-srivastavaa/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/avani-srivastavaa/Leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/avani-srivastavaa/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
