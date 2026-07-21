@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/avani-srivastavaa/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/avani-srivastavaa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/avani-srivastavaa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/avani-srivastavaa/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/avani-srivastavaa/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/avani-srivastavaa/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/avani-srivastavaa/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avani-srivastavaa/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/avani-srivastavaa/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/avani-srivastavaa/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/avani-srivastavaa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/avani-srivastavaa/Leetcode/tree/master/0389-find-the-difference) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/avani-srivastavaa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/avani-srivastavaa/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -296,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/avani-srivastavaa/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/avani-srivastavaa/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/avani-srivastavaa/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/avani-srivastavaa/Leetcode/tree/master/0389-find-the-difference) |
