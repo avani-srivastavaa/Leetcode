@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/avani-srivastavaa/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/avani-srivastavaa/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/avani-srivastavaa/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/avani-srivastavaa/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Simulation
 |  |
 | ------- |
