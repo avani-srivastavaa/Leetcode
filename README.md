@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/avani-srivastavaa/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/avani-srivastavaa/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/avani-srivastavaa/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/avani-srivastavaa/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/avani-srivastavaa/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/avani-srivastavaa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/avani-srivastavaa/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/avani-srivastavaa/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/avani-srivastavaa/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/avani-srivastavaa/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/avani-srivastavaa/Leetcode/tree/master/0069-sqrtx) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/avani-srivastavaa/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/avani-srivastavaa/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
