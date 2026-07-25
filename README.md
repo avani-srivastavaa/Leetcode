@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/avani-srivastavaa/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/avani-srivastavaa/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/avani-srivastavaa/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3536-maximum-product-of-two-digits](https://github.com/avani-srivastavaa/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/avani-srivastavaa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/avani-srivastavaa/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
