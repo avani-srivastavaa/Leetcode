@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/avani-srivastavaa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/avani-srivastavaa/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/avani-srivastavaa/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
 |  |
