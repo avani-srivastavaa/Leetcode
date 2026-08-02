@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/avani-srivastavaa/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/avani-srivastavaa/Leetcode/tree/master/0819-most-common-word) |
+| [0877-stone-game](https://github.com/avani-srivastavaa/Leetcode/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/avani-srivastavaa/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/avani-srivastavaa/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/avani-srivastavaa/Leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/avani-srivastavaa/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/avani-srivastavaa/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/avani-srivastavaa/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/avani-srivastavaa/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/avani-srivastavaa/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -504,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avani-srivastavaa/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/avani-srivastavaa/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
