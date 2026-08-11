@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/avani-srivastavaa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avani-srivastavaa/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/3379-transformed-array) |
 | [3731-find-missing-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/3731-find-missing-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/avani-srivastavaa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avani-srivastavaa/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/avani-srivastavaa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avani-srivastavaa/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/avani-srivastavaa/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/3731-find-missing-elements) |
