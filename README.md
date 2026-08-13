@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/avani-srivastavaa/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/avani-srivastavaa/Leetcode/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/avani-srivastavaa/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/avani-srivastavaa/Leetcode/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/avani-srivastavaa/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/avani-srivastavaa/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/avani-srivastavaa/Leetcode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/avani-srivastavaa/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0867-transpose-matrix) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/avani-srivastavaa/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
