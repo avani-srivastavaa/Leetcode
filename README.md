@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/avani-srivastavaa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avani-srivastavaa/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avani-srivastavaa/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/3379-transformed-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/avani-srivastavaa/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/avani-srivastavaa/Leetcode/tree/master/1952-three-divisors) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avani-srivastavaa/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/avani-srivastavaa/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/avani-srivastavaa/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avani-srivastavaa/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/avani-srivastavaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Sorting
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/avani-srivastavaa/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/avani-srivastavaa/Leetcode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/avani-srivastavaa/Leetcode/tree/master/0999-available-captures-for-rook) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avani-srivastavaa/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avani-srivastavaa/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
