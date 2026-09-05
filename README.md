@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/avani-srivastavaa/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/avani-srivastavaa/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/avani-srivastavaa/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avani-srivastavaa/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avani-srivastavaa/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
