@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/avani-srivastavaa/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/avani-srivastavaa/Leetcode/tree/master/0500-keyboard-row) |
 | [0819-most-common-word](https://github.com/avani-srivastavaa/Leetcode/tree/master/0819-most-common-word) |
+| [0869-reordered-power-of-2](https://github.com/avani-srivastavaa/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/avani-srivastavaa/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/avani-srivastavaa/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/avani-srivastavaa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/avani-srivastavaa/Leetcode/tree/master/0204-count-primes) |
+| [0869-reordered-power-of-2](https://github.com/avani-srivastavaa/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [1925-count-square-sum-triples](https://github.com/avani-srivastavaa/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/avani-srivastavaa/Leetcode/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/avani-srivastavaa/Leetcode/tree/master/1995-count-special-quadruplets) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/avani-srivastavaa/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0869-reordered-power-of-2](https://github.com/avani-srivastavaa/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/avani-srivastavaa/Leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/avani-srivastavaa/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/avani-srivastavaa/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/avani-srivastavaa/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avani-srivastavaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0869-reordered-power-of-2](https://github.com/avani-srivastavaa/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avani-srivastavaa/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/avani-srivastavaa/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/avani-srivastavaa/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/avani-srivastavaa/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/avani-srivastavaa/Leetcode/tree/master/0819-most-common-word) |
+| [0869-reordered-power-of-2](https://github.com/avani-srivastavaa/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/avani-srivastavaa/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/avani-srivastavaa/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avani-srivastavaa/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
